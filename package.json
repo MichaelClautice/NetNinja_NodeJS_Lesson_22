@@ -1,0 +1,27 @@
+{
+  "name": "netninja_nodejs_lesson_21",
+  "version": "1.0.0",
+  "description": "a little test app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaelClautice/NetNinja_NodeJS_Lesson_21.git"
+  },
+  "keywords": [
+    "fun",
+    "ninjas"
+  ],
+  "author": "Michael Clautice",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichaelClautice/NetNinja_NodeJS_Lesson_21/issues"
+  },
+  "homepage": "https://github.com/MichaelClautice/NetNinja_NodeJS_Lesson_21#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.11"
+  }
+}

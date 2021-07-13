@@ -5,6 +5,4 @@ Lesson 22 - Installing Nodemon
 
 https://youtu.be/4N0d8HhU5DE
 
-The Nodemon pkg saves time via restarting the server when it detects an app’s code changes.
-
-xxxxxxxxxxxxxxxxxxxxxxxxxx
+The Nodemon package saves time by monitoring code changes and restarting the server w/out having to manually cancel & restart the server’s listening process.
